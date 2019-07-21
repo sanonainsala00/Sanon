@@ -1,4 +1,4 @@
-# Sanon
+# ༺༃༽௮ิ∩πี้ເ௮้ণສ์༼༃༻
 KETIK -> pip install akad
 KETIK -> pip install bs4
 KETIK -> pip install gTTS
